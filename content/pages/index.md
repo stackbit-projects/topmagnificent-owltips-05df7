@@ -17,7 +17,7 @@ more_link_text: Read more
 seo:
   title: 'BizBUUZ: Increase Web site With Real Tips'
   description: >-
-    extension for Google Chrome and Mozilla Firefox takes care of your eyes by
+    Extension for Google Chrome and Mozilla Firefox takes care of your eyes by
     making dark themes with configurable brightness and contrast.
   extra:
     - name: 'og:type'
