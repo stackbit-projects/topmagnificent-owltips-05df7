@@ -15,7 +15,7 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
+  title: 'BizBUUZ: Increase Web site With Real Tips'
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
