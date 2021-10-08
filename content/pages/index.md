@@ -10,7 +10,7 @@ intro_actions:
     url: 'https://pleasant-zebra-f235c.netlify.app/knowledge-base/'
     style: primary
   - label: Contact
-    url: /contact
+    url: 'https://www.signupgenius.com/go/10c0f49a4a822a5f8cf8-howtoget'
     style: secondary
 has_more_link: true
 more_link_text: Read more
