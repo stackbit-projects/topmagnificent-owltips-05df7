@@ -7,7 +7,7 @@ intro_content: >+
 
 intro_actions:
   - label: Learn More
-    url: /about
+    url: 'https://pleasant-zebra-f235c.netlify.app/knowledge-base/'
     style: primary
   - label: Contact
     url: /contact
