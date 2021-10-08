@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Privacy Policy
 img_alt: lorem-ipsum
 seo:
   title: ''
