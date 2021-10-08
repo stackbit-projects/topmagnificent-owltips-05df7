@@ -1,9 +1,6 @@
 ---
 title: Increase Website Traffic Through Social Networks
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+excerpt: ' Obviously, you need to be there before you can drive traffic from your target media to your site. But the details of this presence are not very clear. There are elements that strengthen the foundations of your social presence.   '
 date: '2019-03-30'
 thumb_img_path: /images/2j774a1yavri.gif
 thumb_img_alt: A white modern house
