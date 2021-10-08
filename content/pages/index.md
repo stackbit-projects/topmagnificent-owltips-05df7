@@ -16,7 +16,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: 'BizBUUZ: Increase Web site With Real Tips'
-  description: The preview of the Ampersand theme
+  description: >-
+    extension for Google Chrome and Mozilla Firefox takes care of your eyes by
+    making dark themes with configurable brightness and contrast.
   extra:
     - name: 'og:type'
       value: website
