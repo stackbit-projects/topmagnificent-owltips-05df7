@@ -1,9 +1,6 @@
 ---
 title: What are the benefits of starting an online business?
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: "Remember that Internet business is different from making money from the Internet.\_There are many ways to make money using digital space.\_For example, people who make a profit by buying and selling digital currencies are among those who make money online.\_But Internet business means that you own it and do not operate for a particular company or group."
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
