@@ -2,7 +2,7 @@
 title: What are the benefits of starting an online business?
 excerpt: "Remember that Internet business is different from making money from the Internet.\_There are many ways to make money using digital space.\_For example, people who make a profit by buying and selling digital currencies are among those who make money online.\_But Internet business means that you own it and do not operate for a particular company or group."
 date: '2019-04-09'
-thumb_img_path: images/1.jpg
+thumb_img_path: /images/Website Visitors Targeted.png
 thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
